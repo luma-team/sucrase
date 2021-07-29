@@ -12,7 +12,7 @@
     "sucrase-node": "./bin/sucrase-node"
   },
   "scripts": {
-    "build": "sucrase-node script/build.ts",
+    "build": "./bin/sucrase-node script/build.ts",
     "fast-build": "sucrase-node script/build.ts --fast",
     "clean": "rm -rf ./build ./dist ./dist-self-build ./dist-types ./example-runner/example-repos ./test262/test262-checkout",
     "generate": "sucrase-node generator/generate.ts",

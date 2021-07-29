@@ -1,6 +1,6 @@
 {
-  "name": "@sucrase/jest-plugin",
-  "version": "2.1.0",
+  "name": "@luma-team/sucrase-jest-plugin-test",
+  "version": "0.0.5",
   "description": "Jest plugin for Sucrase",
   "main": "dist/index.js",
   "repository": "https://github.com/alangpierce/sucrase/tree/main/integrations/jest-plugin",
